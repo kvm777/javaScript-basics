@@ -10,7 +10,7 @@
 class Car{ 
 
     constructor(year,color){
-        console.log("this is return when we created onstuctor..");
+        console.log("this is return when we created constuctor..");
         this.color = color;
         this.year = year;
     }

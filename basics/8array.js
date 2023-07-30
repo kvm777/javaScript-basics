@@ -12,7 +12,7 @@ console.log(nums[1]);
 console.log(nums[2]);
 
 nums.push("four");
-//push(ele) m,ethod to add an element
+//push(ele) method to add an element
 console.log(nums);
 
 nums.pop();

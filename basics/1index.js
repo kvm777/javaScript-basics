@@ -18,6 +18,8 @@ function sayHello(){
 }
 
 //function exoression...
-let hello = function(){console.log("hello")}
+let hello = function(){
+    console.log("hello")
+}
 
 hello();
